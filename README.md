@@ -1,2 +1,2 @@
-# AngularSuperHero
-Crud Angular comm .net
+# Angular.netSuperHero
+Crud Angular com .net
